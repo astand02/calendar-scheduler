@@ -15,7 +15,3 @@ To use this webpage, scroll up and down the page and type out what you need to g
 ## Credits
 
 YouTube, Google searches, Slack Resources Chat
-
-## Screenshot
-
-
