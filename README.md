@@ -14,7 +14,11 @@ To use this webpage, scroll up and down the page and type out what you need to g
 
 ## Credits
 
+<<<<<<< HEAD
 YouTube, Google, and Slack resources 
 
 
 
+=======
+YouTube, Google searches, Slack Resources Chat
+>>>>>>> fddf25870a6c076a08769f94d37e977293cee4b3
