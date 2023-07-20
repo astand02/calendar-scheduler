@@ -56,7 +56,6 @@ $(function () {
     var currentDate = dayjs().format('dddd, MMMM D, YYYY');
     dateElement.text(currentDate);
   }
-
 hourlyColor();
 textEntry();                
 refreshColor();
